@@ -12,7 +12,7 @@ public class Move{
 
 		
 		
-		if(f1.getDistance() < 3) {
+		if(f1.getDistance() <= 3) {
 			f1.stop();
 		}
 		
