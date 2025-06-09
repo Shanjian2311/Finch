@@ -1,6 +1,6 @@
 # Finch-Phone Filming holder 
 ---
-This is a finch that designed to be a phone holder, as well as holder for phones to film videos.
+This is a finch that designed to be a phone holder, as well as holder for phones to film videos using the Brainbird and Finch2 java ver.
 - The holder should be able to hold amoung most cell phones in the market.
 - The program had set up a if statement that ***help prevent the holder and the phone hits or falls***
 ## Example codes:
