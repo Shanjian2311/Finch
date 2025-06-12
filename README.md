@@ -2,7 +2,7 @@
 ---
 This is a finch that designed to be a phone holder, as well as holder for phones to film videos using the Brainbird and Finch2 java ver.
 
- ****The coding program are in Move.java file, other files are import from the finch library***
+ ****The coding program are in [Move.java](https://github.com/Shanjian2311/Finch/blob/main/Move.java) file, other files are import from the finch library***
 - The holder should be able to hold amoung most cell phones in the market.
 - The program had set up a if statement that ***help prevent the phone holder and the phone itself from hitting or falling***
 ## Example codes:
