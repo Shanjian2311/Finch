@@ -5,8 +5,21 @@ This is a finch that designed to be a phone holder, as well as holder for phones
  ****The coding program are in [Move.java](https://github.com/Shanjian2311/Finch/blob/main/Move.java) file, other files are import from the finch library***
 - The holder should be able to hold amoung most cell phones in the market.
 - The program had set up a if statement that ***help prevent the phone holder and the phone itself from hitting or falling***
-## Example codes:
+## Progress Check:
 ___
+| Progress  | Task         | Description |
+|:---------:| :-----------:|:------------|
+|    ✅     | Familiarize  |  <ul><li>Brainstorming what things my finch will do with the 3D print</li><li>Moving to designing the 3D design</li><li>Setup a local developing environment to code in Java(Eclipse)</li></ul>|
+|    ✅     | 3D Design    |      <ul><li>Designed the phone holder</li></ul>       |
+|    Processing     | Develop Code |      <ul><li> Coding basic function for the finch, detail codes might be done with the user who use the holder, they decide how the finch will move like.</li></ul>       |
+___
+### 3D design Demo:
+![3D design demo](https://github.com/user-attachments/assets/e8bc0647-5744-4128-ac47-2ae1ed947ebf)
+###### Left: Phone holder itself
+###### Right: Blocker to make sure the phone fits.
+___
+## Example codes:
+
 1. Distance safety function
 ```java
 if(f1.getDistance() < 5) {
